@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>TERESMA Produits Terroir - Dashboard</title>
+    <style>
+        /* General styles */
+        body {
+            font-family: Verdana, sans-serif;
+            font-size: 15px;
+            color: #3C3C3C;
+            background: WhiteSmoke;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+        
+        .dashboard-container {
+            display: flex;
+            flex-direction: column;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .map-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        
+        .map-container {
+            width: 48%;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .map-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #444;
+        }
+        
+        .map-description {
+            font-size: 14px;
+            margin-bottom: 15px;
+            color: #666;
+        }
+        
+        .view-button {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 8px 15px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 14px;
+            margin-top: 10px;
+        }
+        
+        .view-button:hover {
+            background-color: #45a049;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #777;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="dashboard-container">
+        <h1>TERESMA Produits Terroir - Dashboard</h1>
+        
+        <div class="map-row">
+            <div class="map-container">
+                <div class="map-title">Carte 1: Superposition des lieux</div>
+                <div class="map-description">
+                    <ul>
+                        <li>Superposition des lieux avec aplats de couleur</li>
+                        <li>Infobulle avec nombre de lieux superposés</li>
+                        <li>Zoom et pan avec souris</li>
+                    </ul>
+                </div>
+                <a href="carte1.html" class="view-button" target="_blank">Voir la carte</a>
+            </div>
+            
+            <div class="map-container">
+                <div class="map-title">Carte 2: Diversité des échelles</div>
+                <div class="map-description">
+                    <ul>
+                        <li>Superposition des lieux avec aplats de couleur</li>
+                        <li>Diversité des échelles avec figuré</li>
+                        <li>Choix de la source par liste déroulante</li>
+                        <li>Infobulle avec nom du lieu</li>
+                        <li>Surbrillance du lieu sélectionné</li>
+                    </ul>
+                </div>
+                <a href="carte2.html" class="view-button" target="_blank">Voir la carte</a>
+            </div>
+        </div>
+        
+        <div class="map-row">
+            <div class="map-container">
+                <div class="map-title">Carte 3: Produits laitiers</div>
+                <div class="map-description">
+                    <ul>
+                        <li>Superposition des lieux avec aplats de couleur</li>
+                        <li>Cercles proportionnels produits laitiers</li>
+                        <li>Choix de la source par liste déroulante</li>
+                        <li>Surbrillance du lieu sélectionné</li>
+                        <li>Infobulle avec nom du lieu et nombre de produits laitiers</li>
+                    </ul>
+                </div>
+                <a href="carte3.html" class="view-button" target="_blank">Voir la carte</a>
+            </div>
+            
+            <div class="map-container">
+                <div class="map-title">Carte 4: Catégories de produits</div>
+                <div class="map-description">
+                    <ul>
+                        <li>Catégorie de produits en points décalés, avec couleur</li>
+                        <li>Choix de la catégorie par liste déroulante</li>
+                        <li>Surbrillance du lieu sélectionné</li>
+                        <li>Infobulle par point avec nom du lieu, nom de la catégorie et nombre de produits</li>
+                    </ul>
+                </div>
+                <a href="carte4.html" class="view-button" target="_blank">Voir la carte</a>
+            </div>
+        </div>
+        
+        <div class="map-row">
+            <div class="map-container">
+                <div class="map-title">Carte 5: Catégories de produits (variante)</div>
+                <div class="map-description">
+                    <ul>
+                        <li>Similaire à la carte 4</li>
+                        <li>Variante de visualisation des catégories de produits</li>
+                    </ul>
+                </div>
+                <a href="carte5.html" class="view-button" target="_blank">Voir la carte</a>
+            </div>
+            
+            <div class="map-container">
+                <div class="map-title">À propos du projet</div>
+                <div class="map-description">
+                    <p>Ce projet présente une série de cartes interactives affichant des données géographiques sur les produits du terroir en France. Chaque carte propose différentes fonctionnalités telles que des superpositions de lieux avec des aplats de couleur, des infobulles, des capacités de zoom/panoramique et des options de filtrage.</p>
+                    <p>Les cartes utilisent la bibliothèque D3.js pour la visualisation des données et la projection Lambert-93 pour une représentation précise de la France.</p>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <p>TERESMA - Produits du Terroir - Visualisation de données géographiques</p>
+        </footer>
+    </div>
+</body>
+</html>

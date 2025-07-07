@@ -1,0 +1,94 @@
+.map-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.map-title h2 {
+  margin-bottom: 20px;
+  color: #3c3c3c;
+}
+
+.map-container {
+  background: #e3f2ff;
+  border-color: darkgrey;
+  border-style: solid;
+  width: 700px;
+  height: 700px;
+  position: relative;
+}
+
+.map-footer {
+  font-size: 11px;
+  font-style: italic;
+  color: DimGray;
+  margin-top: 10px;
+}
+
+.tooltip {
+  color: #222;
+  background-color: #fff;
+  padding: 0.5em;
+  text-shadow: #f5f5f5 0 1px 0;
+  border-radius: 2px;
+  opacity: 0.9;
+  position: absolute;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Map elements styling */
+.fond {
+  fill: silver;
+  stroke: black;
+  stroke-width: 0;
+}
+
+.lieux_aplat {
+  stroke: none;
+}
+
+.lieux_aplat:hover {
+  fill: yellow !important;
+}
+
+.lieux {
+  fill: transparent;
+}
+
+.lieux_highlighted {
+  fill: yellow;
+  fill-opacity: 0.5;
+}
+
+.lieux_centroides {
+  stroke: black;
+  stroke-width: 0.5;
+}
+
+.lieux_centroides:hover {
+  fill: yellow;
+  fill-opacity: 1;
+}
+
+/* Controls styling */
+.map-controls {
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.map-controls label {
+  margin-right: 10px;
+}
+
+.map-controls select {
+  padding: 5px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: white;
+}

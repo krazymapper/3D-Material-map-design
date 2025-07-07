@@ -1,0 +1,39 @@
+{
+  "name": "teresma-produits-terroir",
+  "version": "1.0.0",
+  "description": "Interactive maps displaying geographical data about local products in France",
+  "homepage": "https://lucinadev.github.io/D3_produits_terroir",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "d3": "^7.8.5",
+    "d3-geo": "^3.1.0",
+    "topojson-client": "^3.1.0",
+    "react-router-dom": "^6.15.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

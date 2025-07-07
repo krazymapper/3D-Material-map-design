@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Cotonou",
+        "departement": "Littoral",
+        "produits": {
+          "Fruits": 15,
+          "Légumes": 12,
+          "Viandes": 8,
+          "Poissons": 20,
+          "Produits laitiers": 5,
+          "Autres": 10
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.42, 6.37]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Porto-Novo",
+        "departement": "Ouémé",
+        "produits": {
+          "Fruits": 12,
+          "Légumes": 10,
+          "Viandes": 6,
+          "Poissons": 15,
+          "Produits laitiers": 4,
+          "Autres": 8
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.63, 6.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Parakou",
+        "departement": "Borgou",
+        "produits": {
+          "Fruits": 10,
+          "Légumes": 8,
+          "Viandes": 12,
+          "Poissons": 3,
+          "Produits laitiers": 15,
+          "Autres": 7
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.63, 9.33]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Abomey-Calavi",
+        "departement": "Atlantique",
+        "produits": {
+          "Fruits": 14,
+          "Légumes": 11,
+          "Viandes": 7,
+          "Poissons": 18,
+          "Produits laitiers": 6,
+          "Autres": 9
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35, 6.45]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Djougou",
+        "departement": "Donga",
+        "produits": {
+          "Fruits": 8,
+          "Légumes": 7,
+          "Viandes": 14,
+          "Poissons": 2,
+          "Produits laitiers": 12,
+          "Autres": 6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.67, 9.7]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Bohicon",
+        "departement": "Zou",
+        "produits": {
+          "Fruits": 9,
+          "Légumes": 13,
+          "Viandes": 8,
+          "Poissons": 4,
+          "Produits laitiers": 7,
+          "Autres": 11
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.07, 7.17]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Natitingou",
+        "departement": "Atacora",
+        "produits": {
+          "Fruits": 7,
+          "Légumes": 6,
+          "Viandes": 13,
+          "Poissons": 1,
+          "Produits laitiers": 10,
+          "Autres": 8
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.38, 10.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "Lokossa",
+        "departement": "Mono",
+        "produits": {
+          "Fruits": 8,
+          "Légumes": 9,
+          "Viandes": 5,
+          "Poissons": 12,
+          "Produits laitiers": 3,
+          "Autres": 7
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.72, 6.63]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Ouidah",
+        "departement": "Atlantique",
+        "produits": {
+          "Fruits": 11,
+          "Légumes": 8,
+          "Viandes": 6,
+          "Poissons": 17,
+          "Produits laitiers": 4,
+          "Autres": 9
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.08, 6.37]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Abomey",
+        "departement": "Zou",
+        "produits": {
+          "Fruits": 10,
+          "Légumes": 12,
+          "Viandes": 9,
+          "Poissons": 3,
+          "Produits laitiers": 8,
+          "Autres": 10
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.99, 7.18]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "Kandi",
+        "departement": "Alibori",
+        "produits": {
+          "Fruits": 9,
+          "Légumes": 7,
+          "Viandes": 15,
+          "Poissons": 2,
+          "Produits laitiers": 14,
+          "Autres": 8
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.94, 11.13]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "Pobè",
+        "departement": "Plateau",
+        "produits": {
+          "Fruits": 13,
+          "Légumes": 9,
+          "Viandes": 5,
+          "Poissons": 4,
+          "Produits laitiers": 6,
+          "Autres": 7
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.67, 7.08]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "Savalou",
+        "departement": "Collines",
+        "produits": {
+          "Fruits": 8,
+          "Légumes": 11,
+          "Viandes": 7,
+          "Poissons": 2,
+          "Produits laitiers": 9,
+          "Autres": 6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.97, 7.93]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "Dogbo",
+        "departement": "Couffo",
+        "produits": {
+          "Fruits": 7,
+          "Légumes": 10,
+          "Viandes": 4,
+          "Poissons": 5,
+          "Produits laitiers": 3,
+          "Autres": 6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.78, 6.8]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "Malanville",
+        "departement": "Alibori",
+        "produits": {
+          "Fruits": 8,
+          "Légumes": 6,
+          "Viandes": 13,
+          "Poissons": 7,
+          "Produits laitiers": 11,
+          "Autres": 9
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.38, 11.87]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "Dassa-Zoumè",
+        "departement": "Collines",
+        "produits": {
+          "Fruits": 9,
+          "Légumes": 10,
+          "Viandes": 6,
+          "Poissons": 3,
+          "Produits laitiers": 8,
+          "Autres": 7
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.18, 7.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "Comè",
+        "departement": "Mono",
+        "produits": {
+          "Fruits": 7,
+          "Légumes": 8,
+          "Viandes": 4,
+          "Poissons": 11,
+          "Produits laitiers": 2,
+          "Autres": 6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.88, 6.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "Savè",
+        "departement": "Collines",
+        "produits": {
+          "Fruits": 8,
+          "Légumes": 9,
+          "Viandes": 5,
+          "Poissons": 2,
+          "Produits laitiers": 7,
+          "Autres": 6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.48, 8.03]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "Nikki",
+        "departement": "Borgou",
+        "produits": {
+          "Fruits": 7,
+          "Légumes": 6,
+          "Viandes": 11,
+          "Poissons": 2,
+          "Produits laitiers": 13,
+          "Autres": 5
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.21, 9.94]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "name": "Tanguiéta",
+        "departement": "Atacora",
+        "produits": {
+          "Fruits": 6,
+          "Légumes": 5,
+          "Viandes": 10,
+          "Poissons": 1,
+          "Produits laitiers": 8,
+          "Autres": 7
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.27, 10.62]
+      }
+    }
+  ]
+}

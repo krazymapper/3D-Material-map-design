@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Alibori",
+        "population": 867463
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[2.3, 11.5], [3.5, 11.5], [3.5, 12.4], [2.3, 12.4], [2.3, 11.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Atacora",
+        "population": 772262
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[1.0, 10.3], [2.3, 10.3], [2.3, 11.5], [1.0, 11.5], [1.0, 10.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Atlantique",
+        "population": 1398229
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[1.9, 6.3], [2.6, 6.3], [2.6, 7.0], [1.9, 7.0], [1.9, 6.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Borgou",
+        "population": 1214926
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[2.3, 9.0], [3.8, 9.0], [3.8, 10.3], [2.3, 10.3], [2.3, 9.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Collines",
+        "population": 716558
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[1.7, 7.5], [2.8, 7.5], [2.8, 8.5], [1.7, 8.5], [1.7, 7.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Couffo",
+        "population": 741895
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[1.5, 6.6], [2.0, 6.6], [2.0, 7.2], [1.5, 7.2], [1.5, 6.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Donga",
+        "population": 543130
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[1.5, 9.0], [2.3, 9.0], [2.3, 10.0], [1.5, 10.0], [1.5, 9.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "Littoral",
+        "population": 679012
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[2.3, 6.3], [2.5, 6.3], [2.5, 6.5], [2.3, 6.5], [2.3, 6.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Mono",
+        "population": 497243
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[1.6, 6.2], [2.0, 6.2], [2.0, 6.6], [1.6, 6.6], [1.6, 6.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Ouémé",
+        "population": 1096850
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[2.5, 6.3], [2.8, 6.3], [2.8, 7.0], [2.5, 7.0], [2.5, 6.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "Plateau",
+        "population": 622372
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[2.4, 7.0], [2.9, 7.0], [2.9, 7.5], [2.4, 7.5], [2.4, 7.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "Zou",
+        "population": 851580
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[1.9, 7.0], [2.4, 7.0], [2.4, 7.5], [1.9, 7.5], [1.9, 7.0]]]
+      }
+    }
+  ]
+}

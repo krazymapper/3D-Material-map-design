@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/D3_produits_terroir/static/css/main.55557cd6.css",
-    "main.js": "/D3_produits_terroir/static/js/main.038ee698.js",
+    "main.css": "/D3_produits_terroir/static/css/main.1dbeae9f.css",
+    "main.js": "/D3_produits_terroir/static/js/main.409f690a.js",
     "index.html": "/D3_produits_terroir/index.html",
-    "main.55557cd6.css.map": "/D3_produits_terroir/static/css/main.55557cd6.css.map",
-    "main.038ee698.js.map": "/D3_produits_terroir/static/js/main.038ee698.js.map"
+    "main.1dbeae9f.css.map": "/D3_produits_terroir/static/css/main.1dbeae9f.css.map",
+    "main.409f690a.js.map": "/D3_produits_terroir/static/js/main.409f690a.js.map"
   },
   "entrypoints": [
-    "static/css/main.55557cd6.css",
-    "static/js/main.038ee698.js"
+    "static/css/main.1dbeae9f.css",
+    "static/js/main.409f690a.js"
   ]
 }

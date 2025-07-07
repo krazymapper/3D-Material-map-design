@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Cotonou",
+        "departement": "Littoral",
+        "population": 679012,
+        "nb_lieux": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.42, 6.37]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Porto-Novo",
+        "departement": "Ouémé",
+        "population": 264320,
+        "nb_lieux": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.63, 6.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Parakou",
+        "departement": "Borgou",
+        "population": 255478,
+        "nb_lieux": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.63, 9.33]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Abomey-Calavi",
+        "departement": "Atlantique",
+        "population": 656358,
+        "nb_lieux": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35, 6.45]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Djougou",
+        "departement": "Donga",
+        "population": 266522,
+        "nb_lieux": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.67, 9.7]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Bohicon",
+        "departement": "Zou",
+        "population": 171781,
+        "nb_lieux": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.07, 7.17]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Natitingou",
+        "departement": "Atacora",
+        "population": 103843,
+        "nb_lieux": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.38, 10.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "Lokossa",
+        "departement": "Mono",
+        "population": 104961,
+        "nb_lieux": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.72, 6.63]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Ouidah",
+        "departement": "Atlantique",
+        "population": 83503,
+        "nb_lieux": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.08, 6.37]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Abomey",
+        "departement": "Zou",
+        "population": 92812,
+        "nb_lieux": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.99, 7.18]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "Kandi",
+        "departement": "Alibori",
+        "population": 179290,
+        "nb_lieux": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.94, 11.13]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "Pobè",
+        "departement": "Plateau",
+        "population": 123740,
+        "nb_lieux": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.67, 7.08]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "Savalou",
+        "departement": "Collines",
+        "population": 144814,
+        "nb_lieux": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.97, 7.93]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "Dogbo",
+        "departement": "Couffo",
+        "population": 103057,
+        "nb_lieux": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.78, 6.8]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "Malanville",
+        "departement": "Alibori",
+        "population": 168006,
+        "nb_lieux": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.38, 11.87]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "Dassa-Zoumè",
+        "departement": "Collines",
+        "population": 112122,
+        "nb_lieux": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.18, 7.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "Comè",
+        "departement": "Mono",
+        "population": 79989,
+        "nb_lieux": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.88, 6.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "Savè",
+        "departement": "Collines",
+        "population": 87177,
+        "nb_lieux": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.48, 8.03]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "Nikki",
+        "departement": "Borgou",
+        "population": 151232,
+        "nb_lieux": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.21, 9.94]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "name": "Tanguiéta",
+        "departement": "Atacora",
+        "population": 77987,
+        "nb_lieux": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.27, 10.62]
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "id": 1,
+      "name": "INRAB",
+      "description": "Institut National des Recherches Agricoles du Bénin"
+    },
+    {
+      "id": 2,
+      "name": "MAEP",
+      "description": "Ministère de l'Agriculture, de l'Élevage et de la Pêche"
+    },
+    {
+      "id": 3,
+      "name": "INSAE",
+      "description": "Institut National de la Statistique et de l'Analyse Économique"
+    }
+  ]
+}

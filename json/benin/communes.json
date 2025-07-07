@@ -1,0 +1,1542 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Cotonou",
+        "departement": "Littoral",
+        "population": 679012,
+        "nb_lieux": 10,
+        "superficie_km2": 79,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.42, 6.37]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Porto-Novo",
+        "departement": "Ouémé",
+        "population": 264320,
+        "nb_lieux": 8,
+        "superficie_km2": 110,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.63, 6.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Parakou",
+        "departement": "Borgou",
+        "population": 255478,
+        "nb_lieux": 7,
+        "superficie_km2": 441,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1200,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.63, 9.33]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Abomey-Calavi",
+        "departement": "Atlantique",
+        "population": 656358,
+        "nb_lieux": 9,
+        "superficie_km2": 650,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35, 6.45]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Djougou",
+        "departement": "Donga",
+        "population": 266522,
+        "nb_lieux": 6,
+        "superficie_km2": 324,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.67, 9.7]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Bohicon",
+        "departement": "Zou",
+        "population": 171781,
+        "nb_lieux": 5,
+        "superficie_km2": 300,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.07, 7.17]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Natitingou",
+        "departement": "Atacora",
+        "population": 103843,
+        "nb_lieux": 4,
+        "superficie_km2": 424,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 27,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.38, 10.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "Lokossa",
+        "departement": "Mono",
+        "population": 104961,
+        "nb_lieux": 3,
+        "superficie_km2": 260,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1200,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.72, 6.63]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Ouidah",
+        "departement": "Atlantique",
+        "population": 83503,
+        "nb_lieux": 7,
+        "superficie_km2": 180,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.08, 6.37]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Abomey",
+        "departement": "Zou",
+        "population": 92812,
+        "nb_lieux": 6,
+        "superficie_km2": 280,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.99, 7.18]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "Kandi",
+        "departement": "Alibori",
+        "population": 179290,
+        "nb_lieux": 5,
+        "superficie_km2": 3000,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.94, 11.13]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "Pobè",
+        "departement": "Plateau",
+        "population": 123740,
+        "nb_lieux": 4,
+        "superficie_km2": 600,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.67, 7.08]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "Savalou",
+        "departement": "Collines",
+        "population": 144814,
+        "nb_lieux": 3,
+        "superficie_km2": 2400,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.97, 7.93]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "Dogbo",
+        "departement": "Couffo",
+        "population": 103057,
+        "nb_lieux": 2,
+        "superficie_km2": 500,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1200,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.78, 6.8]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "Malanville",
+        "departement": "Alibori",
+        "population": 168006,
+        "nb_lieux": 4,
+        "superficie_km2": 4000,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.38, 11.87]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "Bassila",
+        "departement": "Donga",
+        "population": 130770,
+        "nb_lieux": 5,
+        "superficie_km2": 5620,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.62, 9.03]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "Kérou",
+        "departement": "Atacora",
+        "population": 77000,
+        "nb_lieux": 3,
+        "superficie_km2": 3000,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 27,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.49, 10.74]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "Tanguiéta",
+        "departement": "Atacora",
+        "population": 51000,
+        "nb_lieux": 2,
+        "superficie_km2": 2500,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 27,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.62, 10.57]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "Dassa-Zoumé",
+        "departement": "Collines",
+        "population": 112345,
+        "nb_lieux": 4,
+        "superficie_km2": 2600,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2, 7.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "name": "Cove",
+        "departement": "Atlantique",
+        "population": 80000,
+        "nb_lieux": 3,
+        "superficie_km2": 350,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.42, 6.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "name": "Adjohoun",
+        "departement": "Ouémé",
+        "population": 54600,
+        "nb_lieux": 3,
+        "superficie_km2": 308,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.68, 6.38]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "name": "Aplahoué",
+        "departement": "Kouffo",
+        "population": 130000,
+        "nb_lieux": 6,
+        "superficie_km2": 680,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1200,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.78, 6.42]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "name": "Bembèrèkè",
+        "departement": "Borgou",
+        "population": 84300,
+        "nb_lieux": 3,
+        "superficie_km2": 3100,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.72, 10.21]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "name": "Bopa",
+        "departement": "Mono",
+        "population": 85000,
+        "nb_lieux": 3,
+        "superficie_km2": 250,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1200,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.65, 6.45]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "name": "Djougou Rural",
+        "departement": "Donga",
+        "population": 170000,
+        "nb_lieux": 7,
+        "superficie_km2": 4000,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.65, 9.6]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "name": "Kandi Rural",
+        "departement": "Alibori",
+        "population": 230000,
+        "nb_lieux": 6,
+        "superficie_km2": 6000,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.9, 11.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "name": "Come",
+        "departement": "Couffo",
+        "population": 120000,
+        "nb_lieux": 5,
+        "superficie_km2": 450,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1200,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.75, 6.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "name": "Kpomassè",
+        "departement": "Atlantique",
+        "population": 95000,
+        "nb_lieux": 4,
+        "superficie_km2": 300,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.27, 6.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "name": "Ouinhi",
+        "departement": "Zou",
+        "population": 104000,
+        "nb_lieux": 3,
+        "superficie_km2": 600,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1, 7.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "name": "Zogbodomey",
+        "departement": "Zou",
+        "population": 123000,
+        "nb_lieux": 4,
+        "superficie_km2": 750,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.05, 6.8]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "name": "Banikoara",
+        "departement": "Alibori",
+        "population": 200000,
+        "nb_lieux": 7,
+        "superficie_km2": 6100,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.3, 11.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "name": "Parakou",
+        "departement": "Borgou",
+        "population": 255000,
+        "nb_lieux": 8,
+        "superficie_km2": 450,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 27,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.62, 9.35]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "name": "Nikki",
+        "departement": "Borgou",
+        "population": 100000,
+        "nb_lieux": 4,
+        "superficie_km2": 2100,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2, 9.95]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "name": "Gogounou",
+        "departement": "Alibori",
+        "population": 85000,
+        "nb_lieux": 3,
+        "superficie_km2": 3200,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2, 10.85]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "name": "Savè",
+        "departement": "Collines",
+        "population": 130000,
+        "nb_lieux": 5,
+        "superficie_km2": 3000,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.53, 8.13]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "name": "Tchaourou",
+        "departement": "Borgou",
+        "population": 120000,
+        "nb_lieux": 5,
+        "superficie_km2": 4300,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.9, 9.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "name": "Bohicon",
+        "departement": "Zou",
+        "population": 135000,
+        "nb_lieux": 6,
+        "superficie_km2": 410,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.15, 7.18]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "name": "Lokossa",
+        "departement": "Mono",
+        "population": 160000,
+        "nb_lieux": 6,
+        "superficie_km2": 260,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1200,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.62, 6.63]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "name": "Savalou",
+        "departement": "Donga",
+        "population": 110000,
+        "nb_lieux": 4,
+        "superficie_km2": 2700,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.82, 7.41]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "name": "Bantè",
+        "departement": "Collines",
+        "population": 100000,
+        "nb_lieux": 3,
+        "superficie_km2": 2800,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.06, 7.35]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "name": "Cotonou",
+        "departement": "Littoral",
+        "population": 700000,
+        "nb_lieux": 10,
+        "superficie_km2": 79,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 28,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.42, 6.37]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "name": "Sakété",
+        "departement": "Plateau",
+        "population": 120000,
+        "nb_lieux": 5,
+        "superficie_km2": 400,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.65, 6.95]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "name": "N’Dali",
+        "departement": "Borgou",
+        "population": 70000,
+        "nb_lieux": 3,
+        "superficie_km2": 1500,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.94, 9.9]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "name": "Ketou",
+        "departement": "Plateau",
+        "population": 80000,
+        "nb_lieux": 3,
+        "superficie_km2": 350,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.62, 7.15]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "name": "Adjohoun",
+        "departement": "Ouémé",
+        "population": 85000,
+        "nb_lieux": 4,
+        "superficie_km2": 330,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.6, 6.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "name": "Zoukougbeu",
+        "departement": "Collines",
+        "population": 60000,
+        "nb_lieux": 3,
+        "superficie_km2": 2800,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1, 7.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "name": "Djougou",
+        "departement": "Donga",
+        "population": 150000,
+        "nb_lieux": 6,
+        "superficie_km2": 3500,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 27,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.68, 9.7]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "name": "Pobè",
+        "departement": "Ouémé",
+        "population": 120000,
+        "nb_lieux": 5,
+        "superficie_km2": 450,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.75, 6.6]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "name": "Allada",
+        "departement": "Atlantique",
+        "population": 130000,
+        "nb_lieux": 5,
+        "superficie_km2": 350,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.12, 6.7]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "name": "Kpomassè",
+        "departement": "Atlantique",
+        "population": 80000,
+        "nb_lieux": 4,
+        "superficie_km2": 260,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3, 6.6]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "name": "Togbin",
+        "departement": "Atlantique",
+        "population": 70000,
+        "nb_lieux": 3,
+        "superficie_km2": 180,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.28, 6.54]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "name": "Dassa-Zoumè",
+        "departement": "Collines",
+        "population": 140000,
+        "nb_lieux": 6,
+        "superficie_km2": 3700,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.0, 7.6]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "name": "Natitingou",
+        "departement": "Atacora",
+        "population": 100000,
+        "nb_lieux": 5,
+        "superficie_km2": 5400,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1000,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 26,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.5, 10.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "name": "Tanguiéta",
+        "departement": "Atacora",
+        "population": 40000,
+        "nb_lieux": 2,
+        "superficie_km2": 6000,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1000,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 26,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.3, 10.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "name": "Cobly",
+        "departement": "Atacora",
+        "population": 25000,
+        "nb_lieux": 1,
+        "superficie_km2": 2200,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1000,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 26,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.0, 10.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "name": "Bembèrèkè",
+        "departement": "Borgou",
+        "population": 80000,
+        "nb_lieux": 4,
+        "superficie_km2": 3500,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.3, 9.7]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "name": "Ségbana",
+        "departement": "Alibori",
+        "population": 50000,
+        "nb_lieux": 2,
+        "superficie_km2": 2800,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.9, 11.7]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "name": "Kandi",
+        "departement": "Alibori",
+        "population": 120000,
+        "nb_lieux": 5,
+        "superficie_km2": 4000,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.6, 11.1]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "name": "Cove",
+        "departement": "Zou",
+        "population": 70000,
+        "nb_lieux": 3,
+        "superficie_km2": 220,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35, 7.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "name": "Dogbo",
+        "departement": "Couffo",
+        "population": 90000,
+        "nb_lieux": 4,
+        "superficie_km2": 460,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1200,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.9, 6.55]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "name": "Grand-Popo",
+        "departement": "Mono",
+        "population": 50000,
+        "nb_lieux": 3,
+        "superficie_km2": 280,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.63, 6.24]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "name": "Houéyogbé",
+        "departement": "Mono",
+        "population": 95000,
+        "nb_lieux": 4,
+        "superficie_km2": 300,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.6, 6.52]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "name": "Kétou",
+        "departement": "Plateau",
+        "population": 80000,
+        "nb_lieux": 3,
+        "superficie_km2": 350,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.62, 7.15]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "name": "Malanhoui",
+        "departement": "Atacora",
+        "population": 30000,
+        "nb_lieux": 2,
+        "superficie_km2": 2000,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1000,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 26,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.2, 10.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "name": "Nikki",
+        "departement": "Borgou",
+        "population": 100000,
+        "nb_lieux": 4,
+        "superficie_km2": 2100,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2, 9.95]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "name": "Ouinhi",
+        "departement": "Zou",
+        "population": 60000,
+        "nb_lieux": 3,
+        "superficie_km2": 400,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3, 7.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "name": "Porto-Novo",
+        "departement": "Ouémé",
+        "population": 350000,
+        "nb_lieux": 8,
+        "superficie_km2": 110,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.62, 6.48]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "name": "Sèmè-Kpodji",
+        "departement": "Ouémé",
+        "population": 100000,
+        "nb_lieux": 5,
+        "superficie_km2": 200,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.65, 6.45]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "name": "Tchaourou",
+        "departement": "Borgou",
+        "population": 120000,
+        "nb_lieux": 5,
+        "superficie_km2": 4300,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.9, 9.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "name": "Toffo",
+        "departement": "Atlantique",
+        "population": 90000,
+        "nb_lieux": 4,
+        "superficie_km2": 280,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.15, 6.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "name": "Zagnanado",
+        "departement": "Zou",
+        "population": 75000,
+        "nb_lieux": 3,
+        "superficie_km2": 350,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2, 7.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "name": "Zogbodomey",
+        "departement": "Zou",
+        "population": 85000,
+        "nb_lieux": 4,
+        "superficie_km2": 300,
+        "climat": "Tropical soudanien",
+        "precipitations_annuelles_mm": 1100,
+        "saisons_pluie": "mai à octobre",
+        "temp_moyenne_c": 28,
+        "harmattan": "novembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3, 6.8]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "name": "Aplahoué",
+        "departement": "Couffo",
+        "population": 30000,
+        "nb_lieux": 1,
+        "superficie_km2": 525,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1250,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à janvier"
+      },
+      "geometry": { "type": "Point", "coordinates": [1.90, 6.70] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "name": "Avrankou",
+        "departement": "Ouémé",
+        "population": 40000,
+        "nb_lieux": 2,
+        "superficie_km2": 150,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.70, 6.60] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "name": "Bantè",
+        "departement": "Collines",
+        "population": 20000,
+        "nb_lieux": 1,
+        "superficie_km2": 2536,
+        "climat": "Soudano-guinéen",
+        "precipitations_annuelles_mm": 1300,
+        "saisons_pluie": "avril à octobre",
+        "temp_moyenne_c": 26,
+        "harmattan": "décembre à janvier"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.00, 7.80] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "name": "Houéyogbé",
+        "departement": "Mono",
+        "population": 85000,
+        "nb_lieux": 2,
+        "superficie_km2": 600,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1200,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.77,
+          6.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "name": "Kpomassè",
+        "departement": "Atlantique",
+        "population": 60000,
+        "nb_lieux": 2,
+        "superficie_km2": 305,
+        "climat": "Subéquatorial",
+        "precipitations_annuelles_mm": 1350,
+        "saisons_pluie": "mars à juillet, septembre à novembre",
+        "temp_moyenne_c": 27,
+        "harmattan": "décembre à février"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12,
+          6.48
+        ]
+      }
+    }
+  ]
+}
